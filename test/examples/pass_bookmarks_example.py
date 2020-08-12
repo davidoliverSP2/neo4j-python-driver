@@ -18,7 +18,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# tag:pass-bookmarks-import[]
+# tag::pass-bookmarks-import[]
 from neo4j import GraphDatabase
 # end::pass-bookmarks-import[]
 
